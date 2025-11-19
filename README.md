@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Mobile car wash services in Oman. We come to your location to make your car shine.">
-  <title>Sparkle Mobile Car Wash Oman</title>
+  <meta name="description" content="AKM Autocare Pro – Mobile Car Wash services in Oman. We come to your location to make your car shine.">
+  <title>AKM Autocare Pro - Mobile Car Wash Oman</title>
   <link rel="stylesheet" href="style.css">
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 </head>
@@ -12,7 +12,7 @@
   <!-- Header -->
   <header>
     <nav>
-      <div class="logo">Sparkle Mobile Car Wash</div>
+      <div class="logo">AKM Autocare Pro</div>
       <ul class="nav-links">
         <li><a href="#services">Services</a></li>
         <li><a href="#pricing">Pricing</a></li>
@@ -67,8 +67,8 @@
 
   <!-- About Section -->
   <section id="about">
-    <h2>About Sparkle Mobile Car Wash Oman</h2>
-    <p>We provide professional mobile car washing and detailing services directly at your location. Serving Muscat, Seeb, Sohar, and nearby areas, we use eco-friendly products and modern equipment to make your car shine without you needing to leave home.</p>
+    <h2>About AKM Autocare Pro</h2>
+    <p>AKM Autocare Pro provides professional mobile car washing and detailing services directly at your location. Serving Muscat, Seeb, Sohar, and nearby areas, we use eco-friendly products and modern equipment to make your car shine without you needing to leave home.</p>
   </section>
 
   <!-- Contact Section -->
@@ -87,7 +87,7 @@
 
   <!-- Footer -->
   <footer>
-    <p>© 2025 Sparkle Mobile Car Wash Oman. All rights reserved.</p>
+    <p>© 2025 AKM Autocare Pro. All rights reserved.</p>
   </footer>
 </body>
 </html>
